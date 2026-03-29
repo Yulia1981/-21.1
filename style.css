@@ -1,0 +1,19 @@
+label {
+    color: rgb(208, 219, 228);
+}
+
+body {
+    background-color: rgb(196, 157, 233);
+}
+
+#date {
+    color: rgb(236, 12, 12);
+}
+
+.gender {
+    color: rgb(233, 103, 10);
+}
+
+* {
+    font-size: 40px;
+}
